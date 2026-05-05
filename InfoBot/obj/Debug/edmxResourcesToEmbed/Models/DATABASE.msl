@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DemoDBModelStoreContainer" CdmEntityContainer="DemoDBEntities">
+    <EntitySetMapping Name="ims_error_handle">
+      <EntityTypeMapping TypeName="DemoDBModel.ims_error_handle">
+        <MappingFragment StoreEntitySet="ims_error_handle">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="error_code" ColumnName="error_code" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="solution" ColumnName="solution" />
+          <ScalarProperty Name="video_path" ColumnName="video_path" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

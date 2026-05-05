@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shashank KIttur\\source\\repos\\InfoBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E3D6DE-F4D5-4668-A916-3E9DFFE1D7B0}|InfoBot\\InfoBot.csproj|c:\\users\\shashank kittur\\source\\repos\\infobot\\infobot\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E3D6DE-F4D5-4668-A916-3E9DFFE1D7B0}|InfoBot\\InfoBot.csproj|solutionrelative:infobot\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E3D6DE-F4D5-4668-A916-3E9DFFE1D7B0}|InfoBot\\InfoBot.csproj|C:\\Users\\Shashank KIttur\\source\\repos\\InfoBot\\infobot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E3D6DE-F4D5-4668-A916-3E9DFFE1D7B0}|InfoBot\\InfoBot.csproj|solutionrelative:infobot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shashank KIttur\\source\\repos\\InfoBot\\InfoBot\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoBot\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shashank KIttur\\source\\repos\\InfoBot\\InfoBot\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InfoBot\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAwwBkBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T08:23:59.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank KIttur\\source\\repos\\InfoBot\\InfoBot\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InfoBot\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shashank KIttur\\source\\repos\\InfoBot\\InfoBot\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InfoBot\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:15:57.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
